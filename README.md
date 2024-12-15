@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Cathlyn
-- 🌱 I’m interested in _Business Intelligence_ and _Web Development_
+- 🌱 I’m interested in **_Business Intelligence_** and **_Web Development_**
 - 📫 How to reach me: www.linkedin.com/in/cathlynangeline
 - 😄 Pronouns: She/Her
