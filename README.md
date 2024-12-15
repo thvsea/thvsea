@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Cathlyn
+- 🌱 I’m interested in Business Intelligence and Web Development
+- 📫 How to reach me: www.linkedin.com/in/cathlynangeline
+- 😄 Pronouns: She/Her
